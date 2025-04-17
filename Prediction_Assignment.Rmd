@@ -1,6 +1,6 @@
 ---
 title: "Prediction Assignment: Activity Recognition Using Accelerometers"
-author: "Putri SN"
+author: "Reza Hafizd Hermawan"
 output: html_document
 ---
 
