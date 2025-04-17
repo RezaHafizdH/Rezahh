@@ -1,5 +1,5 @@
 # Prediction-Assignment-Activity-Recognition-Using-Accelerometers
-**Author:** Putri SN
+**Author:** Reza HH
 
 ## **Introduction**
 
